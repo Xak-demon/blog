@@ -1,7 +1,7 @@
-<h1>Blog</h1>
-====
-### Project on *Ubuntu*
+====Blog
+------
+====Project on *Ubuntu*
 
 My second repository on Github!
 
-> I love :coffee:, :pizza: and :girl:!
+ I love :coffee:, :pizza: and :girl:!
