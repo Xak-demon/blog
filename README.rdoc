@@ -2,5 +2,3 @@ Project on Ubuntu
 ==============================
 
 My second repository on Github!
-
-==============================
