@@ -1,3 +1,7 @@
-- #README
-Project on Ubuntu
+-
+- Project on Ubuntu
+==============================
+
+My second repository on Github!
+
 ==============================
